@@ -10,7 +10,7 @@ h1 {
      text-align: justify;
    }
    span {
-    color: green; 
+    color: rgb(12, 239, 12); 
    }
    .red-box {
     background-color: red;
@@ -23,8 +23,35 @@ h1 {
     background-color: yellow;
   }
 
-  .red-group {
+
+  body {
     background-color: #00D1AE;
-    width: 200px;
+  }
+  .menu {
+    width: 400px;
+    height: 50px;
+    background-color: rgb(228, 100, 100);
+  }
+  .content {
+    width: 400px;
     height: 200px;
+    background-color: rgb(93, 239, 93);
+  }
+
+  .text-blue {
+    color: rgb(164, 164, 238);
+  }
+
+  .featured{
+    font-weight: hold;
+  }
+  #menu-arriba {
+    background-color: brown;
+  }
+
+  *{
+    color: green;
+  }
+  #cover-box {
+    color: navy;
   }
